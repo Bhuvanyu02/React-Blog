@@ -1,8 +1,0 @@
-.cars{
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  margin-left: 100px;
-  margin-top: 60px;
-}
-
