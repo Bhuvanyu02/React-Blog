@@ -1,0 +1,18 @@
+.art img{
+    height: 140px;
+    width: 220px;
+}
+.art h3{
+  font-family: Montserrat;
+  font-weight: bold;
+
+}
+.art{
+    display: inline-flex;
+    margin-top: 20px;
+    margin-top: 20px;
+}
+.art3{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
